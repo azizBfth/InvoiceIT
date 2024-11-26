@@ -1,0 +1,4 @@
+#Mon Nov 25 10:28:34 CET 2024
+base.0=/home/aziz/invoiceProjects/aziz_invoice/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
